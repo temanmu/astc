@@ -1,8 +1,6 @@
-## ASTC - API Security Testing Checklist
+API Security Testing Checklist
 
-This checklist created based on [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/)
-
-ASCT can be used as a guidance during Pentest an API. 
+This checklist created based on [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/) and can be used as a guidance during Pentest an API. 
 
 ---
 #### API1 - Broken Object Level Authorization
