@@ -1,6 +1,10 @@
 API Security Testing Checklist
 
-This checklist created based on [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/) and can be used as a guidance during Pentest an API. 
+This checklist created based on [OWASP Top 10 API Security Risks – 2023](https://owasp.org/API-Security/editions/2023/en/0x11-t10/) 
+
+The OWASP Top 10 API Security Risks is a list of the most critical security vulnerabilities and risks that organizations should be aware of when designing, developing, and maintaining APIs. 
+
+APIs play a crucial role in modern software development, enabling communication and data exchange between different systems, applications, or services. However, they can also introduce security vulnerabilities if not properly secured.
 
 ---
 #### API1 - Broken Object Level Authorization
