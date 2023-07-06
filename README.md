@@ -4,6 +4,7 @@ This checklist created based on [OWASP Top 10 API Security Risks – 2023](https
 
 The OWASP Top 10 API Security Risks is a list of the most critical security vulnerabilities and risks that organizations should be aware of when designing, developing, and maintaining APIs. 
 
+
 ---
 #### API1 - Broken Object Level Authorization
 
