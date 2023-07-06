@@ -78,7 +78,7 @@ Identifiers for User Requests
 ### To Do : 
 
 - Create guidance for each checklist
-- Create checklist on spread sheet
+- Create checklist on google sheets / spreadsheet
 
 ### Contribution
 
